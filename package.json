@@ -1,0 +1,22 @@
+{
+  "name": "framgia",
+  "version": "1.0.0",
+  "description": "Framgia Develope use Gulp",
+  "main": "index.js",
+  "scripts": {
+    "dev": "Landing Gulp Framgia"
+  },
+  "keywords": [
+    "Framgia"
+  ],
+  "author": "Framgia",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssbeautify": "^0.1.3",
+    "gulp-livereload": "^3.8.1",
+    "gulp-param": "^1.0.3",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0"
+  }
+}

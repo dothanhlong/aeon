@@ -1,0 +1,80 @@
+@import "mixins";
+@import "variable";
+
+// Pages
+@import "pages/price-simulation";
+
+/*-----------------------------------
+ * BASE STYLE
+ *-----------------------------------*/
+body {
+    color: $text_color;
+    line-height: 1.8;
+    overflow-x: hidden;
+    font-family:"Hiragino Kaku Gothic ProN","Hiragino Kaku Gothic Pro","游ゴシック","YuGothic",Meiryo,メイリオ,"ＭＳ ゴシック",sans-serif;
+    font-size: 14px;
+    background-color: $white;
+}
+a {
+    text-decoration: none;
+    &:hover {
+        color: $primary_color;
+        text-decoration: none;
+    }
+    &:active {
+        color: $primary_color;
+        text-decoration: none;
+    }
+    &:focus {
+        outline: none;
+        text-decoration: none;
+    }
+}
+h1, h2, h3, h4, h5, h6 {
+    color: $heading_color;
+    font-weight: 700;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+p {
+    line-height: 1.8;
+}
+
+// Page List
+.pages-list {
+    ul {
+        list-style: none;
+    }
+}
+
+// Footer
+footer {
+    
+}
+// Back to top
+.back-to-top {
+    display: block;
+    position: fixed;
+    right: 30px;
+    bottom: -45px;
+    background: rgba($black, .3);
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    cursor: pointer;
+    line-height: 40px;
+    z-index: 99;
+    @include transition(all .3s);
+    &.in {
+        bottom: 30px;
+    }
+    &:hover {
+        background: rgba($black, .5);
+    }
+    i {
+        color: $white;
+        font-size: 18px;
+    }
+}
