@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>lv1/icon/primary-triangle-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Camp-simulation" transform="translate(-371.000000, -603.000000)" fill="#BA0081">
+            <g id="Step-1" transform="translate(340.000000, 379.000000)">
+                <g id="Group-26" transform="translate(29.000000, 224.000000)">
+                    <g id="lv1/icon/primary-triangle-right">
+                        <g id="015-arrowhead-pointing-to-the-right" transform="translate(2.500000, 0.000000)">
+                            <path d="M6.49819975,5.47262783 L1.27167383,0.222630396 C1.1238751,0.0741690866 0.949066432,0 0.746716609,0 C0.544366787,0 0.369435529,0.0741690866 0.2216368,0.222630396 C0.0738380712,0.371091706 0,0.546807179 0,0.749940997 L0,11.2498948 C0,11.4529876 0.0738380712,11.6288262 0.2216368,11.7772054 C0.369598978,11.9256667 0.544530236,12 0.746716609,12 C0.948943845,12 1.1238751,11.9256667 1.27167383,11.7772054 L6.49819975,6.52720799 C6.64587589,6.37891086 6.72,6.20307225 6.72,5.99989739 C6.72,5.79680461 6.64591676,5.62108914 6.49819975,5.47262783 Z" id="Shape" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

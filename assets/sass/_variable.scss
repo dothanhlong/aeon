@@ -1,9 +1,13 @@
 // Declare scss variables
-$primary_color:                 #333333 !default;
-$text_color:                    #7e7e7e !default;
-$heading_color:                 #ababab !default;
+$primary_color:                 #BA0081 !default;
+$primary_hover: #940066 !default;
+$secondary_color:               #FCF7E2 !default;
+$text_color:                    #222222 !default;
+$text_color_secondary:                    #777777 !default;
+$heading_color:                 #222222 !default;
+$border_color:                 #ddd !default;
 $body_font:                     'Muli' !default;
-$secondary_font:                'Playfair Display' !default;
+$secondary_font:                'Hiragino Sans' !default;
 
 // DECLARE SOME SCSS VARIABLES TO USE
 $white:                   #fff;

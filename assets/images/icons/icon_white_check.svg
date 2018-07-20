@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>lv1/icon/primary-simulation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lv2/btn/icon-primary-lg" transform="translate(-20.000000, -20.000000)" fill="#FFFFFF">
+            <g id="lv1/icon/white-check" transform="translate(20.000000, 20.000000)">
+                <g id="check-box">
+                    <path d="M10.8888889,15.7777778 L7.77777778,18.8888889 L17.7777778,28.8888889 L40,6.66666667 L36.8888889,3.55555556 L17.7777778,22.6666667 L10.8888889,15.7777778 Z M35.5555556,35.5555556 L4.44444444,35.5555556 L4.44444444,4.44444444 L26.6666667,4.44444444 L26.6666667,0 L4.44444444,0 C2,0 0,2 0,4.44444444 L0,35.5555556 C0,38 2,40 4.44444444,40 L35.5555556,40 C38,40 40,38 40,35.5555556 L40,17.7777778 L35.5555556,17.7777778 L35.5555556,35.5555556 Z" id="Shape" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

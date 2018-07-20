@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="24px" viewBox="0 0 14 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>lv1/icon/gray-arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Camp-simulation" transform="translate(-485.000000, -4090.000000)" fill="#CCCCCC">
+            <g id="Step-8" transform="translate(340.000000, 2791.000000)">
+                <g id="Group-10" transform="translate(30.000000, 80.000000)">
+                    <g id="check" transform="translate(90.000000, 1110.000000)">
+                        <g id="lv1/icon/gray-arrow-left" transform="translate(20.000000, 109.000000)">
+                            <g id="009-left-arrow" transform="translate(5.000000, 0.000000)">
+                                <path d="M4.68283514,12.0050732 L13.5567227,3.02634146 C13.8010661,2.77970732 13.9354839,2.44995122 13.9354839,2.09834146 C13.9354839,1.74653659 13.8010661,1.41697561 13.5567227,1.16995122 L12.7791438,0.383609756 C12.5351862,0.136195122 12.2090736,0 11.8615545,0 C11.5140353,0 11.1883085,0.136195122 10.944158,0.383609756 L0.378380606,11.073561 C0.133265834,11.3213659 -0.000959092771,11.6524878 5.16675714e-06,12.0044878 C-0.000959092771,12.3580488 0.133072982,12.6887805 0.378380606,12.9367805 L10.9343225,23.6163902 C11.178473,23.8638049 11.5041999,24 11.8519119,24 C12.199431,24 12.5251579,23.8638049 12.7695012,23.6163902 L13.5468873,22.8300488 C14.0527378,22.3182439 14.0527378,21.4850732 13.5468873,20.9734634 L4.68283514,12.0050732 Z" id="Shape" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
